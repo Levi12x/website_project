@@ -23,14 +23,21 @@ h1 {
 
 @media screen and (max-width: 600px) {
     h1 {
-      font-size: 60px;
-      height: 85px;
+      font-size: 50px;
+      height: 75px;
     }
 }
 
 body {
     background-color: #A47035;
     font-family: 'Edu TAS Beginner', cursive;
+}
+
+@media screen and (max-width: 600px) {
+    #welcome {
+        font-size: 30px;
+
+    }
 }
 
 table, th, td {
