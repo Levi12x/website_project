@@ -245,18 +245,3 @@ h3 {
 .footer a {
     text-decoration: none;
 }
-
-/* experimenting with media queries - delete before submission */
-
-@media screen and (max-width: 992px) {
-    body {
-      background-color: blue;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    body {
-      background-color: olive;
-    }
-  }
-
